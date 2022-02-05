@@ -1,0 +1,31 @@
+{
+  "Students": [
+    {
+      "id": 1,
+      "stuname": "priyanka",
+      "age": "19",
+      "email": "priyanka@gmail.com",
+      "phone": "6345092120",
+      "skills": "user interface",
+      "intrests": "open source"
+    },
+    {
+      "id": 2,
+      "stuname": "rupa",
+      "age": "19",
+      "email": "rupa@gmail.com",
+      "phone": "6345092120",
+      "skills": "python",
+      "intrests": "open source"
+    },
+    {
+      "stuname": "nihith",
+      "email": "nihith@gmail.com",
+      "age": "20",
+      "phone": "7059469233",
+      "skills": "java , python and web",
+      "intrests": "open source",
+      "id": 3
+    }
+  ]
+}
